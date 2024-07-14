@@ -1,17 +1,17 @@
 <h1 align = center>Employees Burnout Analysis and Prediction</h1>
 
-![Burnout Image](https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction/assets/119880028/451b2681-14ff-41bf-81ae-57cd3251ee1a)
+![Burnout Image](https://github.com/pranathi1703/Employees-Burnout-Analysis-and-Prediction/assets/119880028/451b2681-14ff-41bf-81ae-57cd3251ee1a)
 
 
 <div style = "text-align : center">
 
-![GitHub forks](https://img.shields.io/github/forks/usmanbvp/Employees-Burnout-Analysis-and-Prediction?style=flat-square&logo=github)
-![GitHub Repo stars](https://img.shields.io/github/stars/usmanbvp/Employees-Burnout-Analysis-and-Prediction?logo=GitHub)
-![GitHub contributors](https://img.shields.io/github/contributors/usmanbvp/Employees-Burnout-Analysis-and-Prediction?logo=github&color=blue)
+![GitHub forks](https://img.shields.io/github/forks/pranathi1703/Employees-Burnout-Analysis-and-Prediction?style=flat-square&logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/pranathi1703/Employees-Burnout-Analysis-and-Prediction?logo=GitHub)
+![GitHub contributors](https://img.shields.io/github/contributors/pranathi1703/Employees-Burnout-Analysis-and-Prediction?logo=github&color=blue)
 [![Static Badge](https://img.shields.io/badge/View%20Demo-orange?style=flat-square&logo=github&logoColor=black&labelColor=hex)](https://employeesburnoutprediction.pythonanywhere.com/)
-[![MIT License](https://img.shields.io/badge/MIT%20License-blue?style=flat-square&logo=Github&logoColor=black)](https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction/blob/main/LICENSE)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/usmanbvp/Employees-Burnout-Analysis-and-Prediction?style=flat-square&logo=github&logoColor=black)
-![GitHub issues](https://img.shields.io/github/issues/usmanbvp/Employees-Burnout-Analysis-and-Prediction?logo=github&logoColor=black)
+[![MIT License](https://img.shields.io/badge/MIT%20License-blue?style=flat-square&logo=Github&logoColor=black)](https://github.com/pranathi1703/Employees-Burnout-Analysis-and-Prediction/blob/main/LICENSE)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/pranathi1703/Employees-Burnout-Analysis-and-Prediction?style=flat-square&logo=github&logoColor=black)
+![GitHub issues](https://img.shields.io/github/issues/pranathi1703/Employees-Burnout-Analysis-and-Prediction?logo=github&logoColor=black)
 
 </div>
 
@@ -71,7 +71,7 @@ http://127.0.0.1:5000/
 ```
 2. You will be presented with a user-friendly web app interface. Explore the available features and prediction options.
 <div style = "text-align: center;">
-<img src="https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction/assets/119880028/6d8af11c-6264-47ec-9406-c130c5ee3283" alt="web interface" width = "700" height = "350">
+<img src="https://github.com/pranathi1703/Employees-Burnout-Analysis-and-Prediction/assets/119880028/6d8af11c-6264-47ec-9406-c130c5ee3283" alt="web interface" width = "700" height = "350">
 </div>
 
 
@@ -80,7 +80,7 @@ http://127.0.0.1:5000/
 4. The web app should provide you with results based on your input.
 
 <div style="text-align: center;">
-  <img src="https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction/assets/119880028/ed58c7c2-e1c2-4301-8138-2cda76987f93" alt="prediction results" width="700" height="350">
+  <img src="https://github.com/pranathi1703/Employees-Burnout-Analysis-and-Prediction/assets/119880028/ed58c7c2-e1c2-4301-8138-2cda76987f93" alt="prediction results" width="700" height="350">
 </div>
 
 
@@ -111,16 +111,12 @@ Enjoy using the deployed version of the Employees Burnout Analysis and Predictio
 </p>
 
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-The MIT License is a permissive open source license that allows you to use, modify, and distribute this project for both commercial and non-commercial purposes.
 
 ## 📝Feedback and Support
-If you have any feedback, suggestions, or questions regarding the project, please create an issue in the repository or contact me at usman.bvp@gmail.com.
+If you have any feedback, suggestions, or questions regarding the project, please create an issue in the repository or contact me at pranathiakula35@gmail.com.
 
 ### If you find this repository helpful, don't forget to show your support by giving it a star! ⭐
 Your star is a great way to let us know you appreciate our work and find value in this project. Thank you! ⭐
 
-Happy analyzing and predicting❤️!
+Happy analyzing and predicting!!!
