@@ -1,0 +1,45 @@
+body {
+    font-weight: bold; 
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: skyblue;
+  }
+  h3 { 
+  color: blue; 
+  text-align: center; 
+  }
+  input { 
+    background-color: lightgray;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  
+  select {
+    background-color: lightgray;
+    border-radius: 5px;
+    padding: 5px;
+  
+  }
+  
+  .button-green {
+  background-color: lightblue ;
+  }
+  form {
+    margin: 0 auto; 
+    text-align: center; 
+    width: 400px; 
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  a {
+    text-decoration: none;
+    color: purple; 
+    font-weight: bold;
+}
+  .centered-container {
+  text-align: center;
+  font-weight: bold;
+}
