@@ -64,7 +64,7 @@ python app.py
 ```
 ## 👨🏻‍💻How to Use this Project?
 
-Once you'have successfully installed and run the project, you can use it to  predict the burnout rate of Emoloyees. Here's how to get started:
+Once you'have successfully installed and run the project, you can use it to  predict the burnout rate of Employees. Here's how to get started:
 1. Open your web browser and navigate to 
 ```
 http://127.0.0.1:5000/
